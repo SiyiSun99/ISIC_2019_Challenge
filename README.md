@@ -7,6 +7,9 @@ Melanoma is the deadliest form of skin cancer (5,000,000 newly diagnosed cases i
 ## Graphic Abstract
 ![image](https://user-images.githubusercontent.com/98569478/207809768-74677bae-e2f3-462a-9183-24d4c7487832.png)
 
+## Hyper-parameter Tuning
+![tune_high](https://user-images.githubusercontent.com/98569478/207810080-7e5bd70f-6e65-42ea-97ff-20a6ca333be2.jpg)
+
 
 ## Folder Structure
 ```
