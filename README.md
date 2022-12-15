@@ -8,6 +8,7 @@ Melanoma is the deadliest form of skin cancer (5,000,000 newly diagnosed cases i
 ```
 Structure of the folder
 |   efficient.py
+|   requirements.txt
 |   ISIC_2019_Test_Metadata.csv
 |   ISIC_2019_Training_GroundTruth.csv
 |   ISIC_2019_Training_Metadata.csv
